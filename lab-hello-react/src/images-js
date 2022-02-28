@@ -1,0 +1,9 @@
+
+function Images(){
+    return(
+        <img
+      src=""
+      alt="image1"
+    />
+    )
+}
